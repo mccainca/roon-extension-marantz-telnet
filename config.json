@@ -1,0 +1,13 @@
+{
+    "roonstate": {
+        "tokens": {
+            "93cfb32a-044e-43c2-b33d-fc9b86efb347": "cb9034b2-e2d5-4ed5-b9a7-8d20581d11e1",
+            "84692ed5-2d17-4990-bee0-88c56c639855": "b8e1a89f-662d-4c2c-9a4b-a5bf3c75ca43"
+        }
+    },
+    "settings": {
+        "hostname": "192.168.0.2",
+        "setsource": "AUX2",
+        "id": 14059
+    }
+}
