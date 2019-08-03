@@ -374,7 +374,7 @@ var intervalObject = setInterval(async function(avr) {
                         is_muted: state.volume_state.is_muted
                     });
         }
-    }, 3000, avr);
+    }, 45000, avr);
 
     // clearInterval(obj)
 
